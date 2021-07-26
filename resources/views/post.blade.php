@@ -11,7 +11,7 @@
 
     </article>
 
-    <x-button>
-        <a href="/">Go Back</a>
+    <x-button href="/">
+        Go Back
     </x-button>
 </x-layout>

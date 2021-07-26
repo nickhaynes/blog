@@ -1,1 +1,1 @@
-<button {{ $attributes }}>{{ $slot }}</button>
+<a href="{{ $href }}">{{ $slot }}</a>
